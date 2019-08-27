@@ -2,15 +2,22 @@
 
 This is a multiplayer snake game that can be played accross machines. 
 
+
 Usage:
 On your terminal, compile the game with the command:
+
 $make
 
+
 Player 1 serves as the central server, displays the port number and waits for a connection, use the command:
+
 $./snake
 
+
 Player 2 can now connect to the game with the following command:
+
 $./snake <Player 1's Machine Name> <port number>
+
 
 Multiplayer Snake Rules!
 1. The player with the longest snake wins!
