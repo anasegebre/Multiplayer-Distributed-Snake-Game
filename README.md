@@ -16,7 +16,7 @@ $./snake
 
 Player 2 can now connect to the game with the following command:
 
-$./snake <Player 1's Machine Name> <port number>
+$./snake `<Player 1's Machine Name>` `<Port Number>`
 
 
 Multiplayer Snake Rules!
